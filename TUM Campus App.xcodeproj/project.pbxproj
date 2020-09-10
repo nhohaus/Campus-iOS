@@ -11,22 +11,6 @@
 		19382F202389D04F007BEC88 /* StudyRoomGroupedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19382F1F2389D04F007BEC88 /* StudyRoomGroupedTableViewCell.swift */; };
 		19382F222389D4AD007BEC88 /* StudyRoomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19382F212389D4AD007BEC88 /* StudyRoomCell.swift */; };
 		19F7DB22238A112E00082444 /* TuitionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19F7DB21238A112E00082444 /* TuitionCell.swift */; };
-		2203560224C27FD200F5FAB7 /* FirebaseRemoteConfig.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F124C27FD100F5FAB7 /* FirebaseRemoteConfig.xcframework */; };
-		2203560324C27FD200F5FAB7 /* nanopb.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F224C27FD100F5FAB7 /* nanopb.xcframework */; };
-		2203560424C27FD200F5FAB7 /* FirebaseInstallations.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F324C27FD100F5FAB7 /* FirebaseInstallations.xcframework */; };
-		2203560524C27FD200F5FAB7 /* GoogleToolboxForMac.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F424C27FD100F5FAB7 /* GoogleToolboxForMac.xcframework */; };
-		2203560624C27FD200F5FAB7 /* GoogleAppMeasurement.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F524C27FD100F5FAB7 /* GoogleAppMeasurement.framework */; platformFilter = ios; };
-		2203560724C27FD200F5FAB7 /* FirebasePerformance.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F624C27FD100F5FAB7 /* FirebasePerformance.framework */; platformFilter = ios; };
-		2203560824C27FD200F5FAB7 /* GoogleUtilities.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F724C27FD200F5FAB7 /* GoogleUtilities.xcframework */; };
-		2203560924C27FD200F5FAB7 /* PromisesObjC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355F824C27FD200F5FAB7 /* PromisesObjC.xcframework */; };
-		2203560B24C27FD200F5FAB7 /* GTMSessionFetcher.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FA24C27FD200F5FAB7 /* GTMSessionFetcher.xcframework */; };
-		2203560C24C27FD200F5FAB7 /* FirebaseCore.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FB24C27FD200F5FAB7 /* FirebaseCore.xcframework */; };
-		2203560D24C27FD200F5FAB7 /* FirebaseCoreDiagnostics.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FC24C27FD200F5FAB7 /* FirebaseCoreDiagnostics.xcframework */; };
-		2203560E24C27FD200F5FAB7 /* FirebaseABTesting.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FD24C27FD200F5FAB7 /* FirebaseABTesting.xcframework */; };
-		2203560F24C27FD200F5FAB7 /* Protobuf.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FE24C27FD200F5FAB7 /* Protobuf.xcframework */; };
-		2203561024C27FD200F5FAB7 /* FirebaseAnalytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 220355FF24C27FD200F5FAB7 /* FirebaseAnalytics.framework */; platformFilter = ios; };
-		2203561124C27FD200F5FAB7 /* GoogleDataTransport.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2203560024C27FD200F5FAB7 /* GoogleDataTransport.xcframework */; };
-		2203561224C27FD200F5FAB7 /* FIRAnalyticsConnector.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2203560124C27FD200F5FAB7 /* FIRAnalyticsConnector.framework */; platformFilter = ios; };
 		220603B024944493004869F7 /* XMLCoder in Frameworks */ = {isa = PBXBuildFile; productRef = 220603AF24944493004869F7 /* XMLCoder */; };
 		220EB130247DBBA700DC4A6F /* Charts in Frameworks */ = {isa = PBXBuildFile; productRef = 220EB12F247DBBA700DC4A6F /* Charts */; };
 		221471072476AA6F004C04BD /* TokenActivationTutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221471062476AA6F004C04BD /* TokenActivationTutorialViewController.swift */; };
@@ -132,9 +116,10 @@
 		22CFD18824B3874300A35FA6 /* LectureDetailHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22CFD18724B3874300A35FA6 /* LectureDetailHeader.swift */; };
 		22D210ED24A173CA000F3B2F /* LecturesCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D210EC24A173CA000F3B2F /* LecturesCollectionViewController.swift */; };
 		22D210EF24A173F5000F3B2F /* LectureCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D210EE24A173F5000F3B2F /* LectureCollectionViewCell.swift */; };
-		22D458DE24C275AE00A6058B /* FirebaseCrashlytics.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D458DD24C275AE00A6058B /* FirebaseCrashlytics.xcframework */; };
 		22D4FCD821DE6E2200DF1F4B /* RoundedViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D4FCD721DE6E2200DF1F4B /* RoundedViews.swift */; };
 		22D4FCDA21DE713600DF1F4B /* ShadowViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D4FCD921DE713600DF1F4B /* ShadowViews.swift */; };
+		22D733A4250A9A2000C48C3B /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; platformFilter = ios; productRef = 22D733A3250A9A2000C48C3B /* FirebaseAnalytics */; };
+		22D733A6250A9A2000C48C3B /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 22D733A5250A9A2000C48C3B /* FirebaseCrashlytics */; };
 		22DE82B624AE8214001EFAB4 /* PersonSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DE82B524AE8214001EFAB4 /* PersonSearchViewController.swift */; };
 		22DE82B824AE823D001EFAB4 /* LectureSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DE82B724AE823D001EFAB4 /* LectureSearchViewController.swift */; };
 		22E5303C2217698300A29992 /* Credentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E5303B2217698300A29992 /* Credentials.swift */; };
@@ -174,23 +159,6 @@
 		19382F212389D4AD007BEC88 /* StudyRoomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRoomCell.swift; sourceTree = "<group>"; };
 		19BA03EF23897FEE00B85982 /* CalendarEventCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarEventCell.swift; sourceTree = "<group>"; };
 		19F7DB21238A112E00082444 /* TuitionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuitionCell.swift; sourceTree = "<group>"; };
-		220355F124C27FD100F5FAB7 /* FirebaseRemoteConfig.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseRemoteConfig.xcframework; sourceTree = "<group>"; };
-		220355F224C27FD100F5FAB7 /* nanopb.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = nanopb.xcframework; sourceTree = "<group>"; };
-		220355F324C27FD100F5FAB7 /* FirebaseInstallations.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseInstallations.xcframework; sourceTree = "<group>"; };
-		220355F424C27FD100F5FAB7 /* GoogleToolboxForMac.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleToolboxForMac.xcframework; sourceTree = "<group>"; };
-		220355F524C27FD100F5FAB7 /* GoogleAppMeasurement.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleAppMeasurement.framework; sourceTree = "<group>"; };
-		220355F624C27FD100F5FAB7 /* FirebasePerformance.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebasePerformance.framework; sourceTree = "<group>"; };
-		220355F724C27FD200F5FAB7 /* GoogleUtilities.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleUtilities.xcframework; sourceTree = "<group>"; };
-		220355F824C27FD200F5FAB7 /* PromisesObjC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PromisesObjC.xcframework; sourceTree = "<group>"; };
-		220355F924C27FD200F5FAB7 /* FirebaseCrashlytics.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseCrashlytics.xcframework; sourceTree = "<group>"; };
-		220355FA24C27FD200F5FAB7 /* GTMSessionFetcher.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GTMSessionFetcher.xcframework; sourceTree = "<group>"; };
-		220355FB24C27FD200F5FAB7 /* FirebaseCore.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseCore.xcframework; sourceTree = "<group>"; };
-		220355FC24C27FD200F5FAB7 /* FirebaseCoreDiagnostics.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseCoreDiagnostics.xcframework; sourceTree = "<group>"; };
-		220355FD24C27FD200F5FAB7 /* FirebaseABTesting.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseABTesting.xcframework; sourceTree = "<group>"; };
-		220355FE24C27FD200F5FAB7 /* Protobuf.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Protobuf.xcframework; sourceTree = "<group>"; };
-		220355FF24C27FD200F5FAB7 /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebaseAnalytics.framework; sourceTree = "<group>"; };
-		2203560024C27FD200F5FAB7 /* GoogleDataTransport.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleDataTransport.xcframework; sourceTree = "<group>"; };
-		2203560124C27FD200F5FAB7 /* FIRAnalyticsConnector.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FIRAnalyticsConnector.framework; sourceTree = "<group>"; };
 		221471062476AA6F004C04BD /* TokenActivationTutorialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenActivationTutorialViewController.swift; sourceTree = "<group>"; };
 		22195062221C8CCC00169A2B /* Lecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lecture.swift; sourceTree = "<group>"; };
 		2223AB1124AE5EFB00D707F0 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
@@ -300,9 +268,6 @@
 		22D210EC24A173CA000F3B2F /* LecturesCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LecturesCollectionViewController.swift; sourceTree = "<group>"; };
 		22D210EE24A173F5000F3B2F /* LectureCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LectureCollectionViewCell.swift; sourceTree = "<group>"; };
 		22D3BE5124C445BF009D0DCF /* Munich.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Munich.gpx; sourceTree = "<group>"; };
-		22D458DD24C275AE00A6058B /* FirebaseCrashlytics.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FirebaseCrashlytics.xcframework; sourceTree = "<group>"; };
-		22D458DF24C275BE00A6058B /* module.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
-		22D458E024C275C500A6058B /* Firebase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Firebase.h; sourceTree = "<group>"; };
 		22D4FCD721DE6E2200DF1F4B /* RoundedViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedViews.swift; sourceTree = "<group>"; };
 		22D4FCD921DE713600DF1F4B /* ShadowViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowViews.swift; sourceTree = "<group>"; };
 		22DE82B524AE8214001EFAB4 /* PersonSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonSearchViewController.swift; sourceTree = "<group>"; };
@@ -328,29 +293,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2203560824C27FD200F5FAB7 /* GoogleUtilities.xcframework in Frameworks */,
 				225AD75A2479D358001A969E /* KeychainAccess in Frameworks */,
 				224BBF0F24BFBAEA0055DD4C /* Kingfisher in Frameworks */,
-				2203560324C27FD200F5FAB7 /* nanopb.xcframework in Frameworks */,
-				22D458DE24C275AE00A6058B /* FirebaseCrashlytics.xcframework in Frameworks */,
-				2203561024C27FD200F5FAB7 /* FirebaseAnalytics.framework in Frameworks */,
-				2203560C24C27FD200F5FAB7 /* FirebaseCore.xcframework in Frameworks */,
+				22D733A4250A9A2000C48C3B /* FirebaseAnalytics in Frameworks */,
 				22508B642492559900B6740D /* CalendarKit in Frameworks */,
 				220603B024944493004869F7 /* XMLCoder in Frameworks */,
-				2203560E24C27FD200F5FAB7 /* FirebaseABTesting.xcframework in Frameworks */,
-				2203560424C27FD200F5FAB7 /* FirebaseInstallations.xcframework in Frameworks */,
-				2203560624C27FD200F5FAB7 /* GoogleAppMeasurement.framework in Frameworks */,
-				2203561224C27FD200F5FAB7 /* FIRAnalyticsConnector.framework in Frameworks */,
-				2203560D24C27FD200F5FAB7 /* FirebaseCoreDiagnostics.xcframework in Frameworks */,
-				2203560524C27FD200F5FAB7 /* GoogleToolboxForMac.xcframework in Frameworks */,
-				2203561124C27FD200F5FAB7 /* GoogleDataTransport.xcframework in Frameworks */,
-				2203560224C27FD200F5FAB7 /* FirebaseRemoteConfig.xcframework in Frameworks */,
 				220EB130247DBBA700DC4A6F /* Charts in Frameworks */,
-				2203560724C27FD200F5FAB7 /* FirebasePerformance.framework in Frameworks */,
+				22D733A6250A9A2000C48C3B /* FirebaseCrashlytics in Frameworks */,
 				225AD74B2479D2D3001A969E /* Alamofire in Frameworks */,
-				2203560924C27FD200F5FAB7 /* PromisesObjC.xcframework in Frameworks */,
-				2203560F24C27FD200F5FAB7 /* Protobuf.xcframework in Frameworks */,
-				2203560B24C27FD200F5FAB7 /* GTMSessionFetcher.xcframework in Frameworks */,
 				225AD7542479D32C001A969E /* SWXMLHash in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -529,8 +479,6 @@
 				22D3BE5124C445BF009D0DCF /* Munich.gpx */,
 				22710B532479E0D30065D6E9 /* Localizable.strings */,
 				22BDA8DB24927CE800F12FD1 /* Extensions */,
-				22E67CA5248AE4220066682D /* Headers */,
-				22E67CA4248AE4090066682D /* Frameworks */,
 			);
 			path = "TUM Campus App";
 			sourceTree = "<group>";
@@ -715,40 +663,6 @@
 			path = Calendar;
 			sourceTree = "<group>";
 		};
-		22E67CA4248AE4090066682D /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2203560124C27FD200F5FAB7 /* FIRAnalyticsConnector.framework */,
-				220355FD24C27FD200F5FAB7 /* FirebaseABTesting.xcframework */,
-				220355FF24C27FD200F5FAB7 /* FirebaseAnalytics.framework */,
-				220355FB24C27FD200F5FAB7 /* FirebaseCore.xcframework */,
-				220355FC24C27FD200F5FAB7 /* FirebaseCoreDiagnostics.xcframework */,
-				220355F924C27FD200F5FAB7 /* FirebaseCrashlytics.xcframework */,
-				220355F324C27FD100F5FAB7 /* FirebaseInstallations.xcframework */,
-				220355F624C27FD100F5FAB7 /* FirebasePerformance.framework */,
-				220355F124C27FD100F5FAB7 /* FirebaseRemoteConfig.xcframework */,
-				220355F524C27FD100F5FAB7 /* GoogleAppMeasurement.framework */,
-				2203560024C27FD200F5FAB7 /* GoogleDataTransport.xcframework */,
-				220355F424C27FD100F5FAB7 /* GoogleToolboxForMac.xcframework */,
-				220355F724C27FD200F5FAB7 /* GoogleUtilities.xcframework */,
-				220355FA24C27FD200F5FAB7 /* GTMSessionFetcher.xcframework */,
-				220355F224C27FD100F5FAB7 /* nanopb.xcframework */,
-				220355F824C27FD200F5FAB7 /* PromisesObjC.xcframework */,
-				220355FE24C27FD200F5FAB7 /* Protobuf.xcframework */,
-				22D458DD24C275AE00A6058B /* FirebaseCrashlytics.xcframework */,
-			);
-			path = Frameworks;
-			sourceTree = "<group>";
-		};
-		22E67CA5248AE4220066682D /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				22D458E024C275C500A6058B /* Firebase.h */,
-				22D458DF24C275BE00A6058B /* module.modulemap */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		22E67CC2248AE69D0066682D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -781,6 +695,8 @@
 				22508B632492559900B6740D /* CalendarKit */,
 				220603AF24944493004869F7 /* XMLCoder */,
 				224BBF0E24BFBAEA0055DD4C /* Kingfisher */,
+				22D733A3250A9A2000C48C3B /* FirebaseAnalytics */,
+				22D733A5250A9A2000C48C3B /* FirebaseCrashlytics */,
 			);
 			productName = "TUM Campus App";
 			productReference = 2277E90C21D93C3300D7FF3F /* TUMCampusApp.app */;
@@ -868,6 +784,7 @@
 				22508B622492559900B6740D /* XCRemoteSwiftPackageReference "CalendarKit" */,
 				220603AE24944493004869F7 /* XCRemoteSwiftPackageReference "XMLCoder" */,
 				224BBF0D24BFBAEA0055DD4C /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				22D733A2250A9A2000C48C3B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = 2277E90D21D93C3300D7FF3F /* Products */;
 			projectDirPath = "";
@@ -1486,6 +1403,14 @@
 				minimumVersion = 4.2.0;
 			};
 		};
+		22D733A2250A9A2000C48C3B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				branch = "6.32-spm-beta";
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -1523,6 +1448,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 225AD7582479D358001A969E /* XCRemoteSwiftPackageReference "KeychainAccess" */;
 			productName = KeychainAccess;
+		};
+		22D733A3250A9A2000C48C3B /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 22D733A2250A9A2000C48C3B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		22D733A5250A9A2000C48C3B /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 22D733A2250A9A2000C48C3B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
 		};
 /* End XCSwiftPackageProductDependency section */
 
